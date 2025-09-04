@@ -16,6 +16,7 @@ project:
       children:
         - file: notebooks/01_Prepare_inputs_simulation_data.ipynb
         - file: notebooks/02_Quick_start_simulation_data.ipynb
+        - file: notebooks/03_tutorial_lung_tissue_IPF.ipynb
 site:
   template: book-theme
   options:
