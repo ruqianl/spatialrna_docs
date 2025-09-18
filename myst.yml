@@ -17,6 +17,9 @@ project:
         - file: notebooks/01_Prepare_inputs_simulation_data.ipynb
         - file: notebooks/02_Quick_start_simulation_data.ipynb
         - file: notebooks/03_tutorial_lung_tissue_IPF.ipynb
+    - title: Choosing radius
+      children:
+        - file: notebooks/04_effect_of_radius_and_cluster_numbers.ipynb
 site:
   template: book-theme
   options:
