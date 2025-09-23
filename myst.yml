@@ -20,6 +20,9 @@ project:
     - title: Choosing radius
       children:
         - file: notebooks/04_effect_of_radius_and_cluster_numbers.ipynb
+    - title: Case study on Xenium 5K Ovarian Cancer Tissue
+      children:
+        - file: notebooks/advanced_02_viz_ovarian_cancer_output.ipynb
 site:
   template: book-theme
   options:
