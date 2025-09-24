@@ -23,6 +23,9 @@ project:
     - title: Case study on Xenium 5K Ovarian Cancer Tissue
       children:
         - file: notebooks/advanced_02_viz_ovarian_cancer_output.ipynb
+    - title: Advanced 
+      children:
+        - file: notebooks/advanced_01_model_for_cell_type_prediction.ipynb
 site:
   template: book-theme
   options:
