@@ -31,6 +31,16 @@ https://pytorch-geometric.readthedocs.io/en/stable/install/installation.html#add
 pip install pyg_lib torch_scatter torch_sparse torch_cluster torch_spline_conv -f https://data.pyg.org/whl/torch-2.4.0+cu124.html
 ```
 
+## Additional packages for clustering and plotting
+
+```console
+pip install tqdm \
+            scipy \
+            scikit-learn \
+            pandas \
+            matplotlib \
+            opencv-python 
+```
 ## Install spatialrna
 
 ```console
