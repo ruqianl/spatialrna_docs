@@ -1,5 +1,7 @@
 ## Lung tissue samples
 
+To get started and become familiar with the types of analyses you can perform using SpatialRNA, we recommend going through the first three tutorials before scaling up your analysis to larger sets of samples.
+
 In this case study, we analyse 45 Xenium lung tissue samples from [GSE250346](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE250346), including both healthy and fibrotic conditions.  
 A total of 343 genes were measured across samples, each approximately 3–5 mm in diameter, yielding around 299 million detected transcripts [Vannan, Lyu et al, 2025](https://doi.org/10.1038/s41588-025-02080-x).  
 
