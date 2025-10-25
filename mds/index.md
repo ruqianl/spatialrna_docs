@@ -11,7 +11,7 @@ Image-based spatial transcriptomics provide gene expression measurements in tiss
 
 `SpatialRNA` is a Python package designed for easy graph and subgraph generations from spatial RNA molecules in tissue samples ([Lyu et al,2025](https://doi.org/10.1101/2025.03.20.644258)).
 
-To get started and become familiar with the types of analyses you can perform using SpatialRNA, we recommend going through the first three tutorials. We also provide a complete set of scripts to help you scale up your analysis to larger sets of samples. [Large-scale application](../notebooks/advanced_02_viz_ovarian_cancer_output.ipynb) .
+To get started and become familiar with the types of analyses you can perform using SpatialRNA, we recommend going through the first three tutorials. We also provide a complete set of scripts to help you scale up your analysis to larger sets of samples.
 
 ::::{grid} 1 1 2 3
 
